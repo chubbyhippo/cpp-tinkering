@@ -1,3 +1,0 @@
-C:/play/cpp-playground/C++Basics/sfml/CMakeFiles/sfml.dir
-C:/play/cpp-playground/C++Basics/sfml/CMakeFiles/edit_cache.dir
-C:/play/cpp-playground/C++Basics/sfml/CMakeFiles/rebuild_cache.dir

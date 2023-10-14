@@ -1,2 +1,0 @@
-C:\Users\nt\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc C:\play\cpp-playground\C++Basics\cmake-build-debug\lib\libgmock_main.a CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj
-C:\Users\nt\AppData\Local\Programs\CLion\bin\mingw\bin\ranlib.exe C:\play\cpp-playground\C++Basics\cmake-build-debug\lib\libgmock_main.a

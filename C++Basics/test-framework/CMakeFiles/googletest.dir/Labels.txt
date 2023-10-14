@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+C:/play/cpp-playground/C++Basics/test-framework/CMakeFiles/googletest
+C:/play/cpp-playground/C++Basics/test-framework/CMakeFiles/googletest.rule
+C:/play/cpp-playground/C++Basics/test-framework/CMakeFiles/googletest-complete.rule
+C:/play/cpp-playground/C++Basics/test-framework/googletest-prefix/src/googletest-stamp/googletest-build.rule
+C:/play/cpp-playground/C++Basics/test-framework/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+C:/play/cpp-playground/C++Basics/test-framework/googletest-prefix/src/googletest-stamp/googletest-download.rule
+C:/play/cpp-playground/C++Basics/test-framework/googletest-prefix/src/googletest-stamp/googletest-install.rule
+C:/play/cpp-playground/C++Basics/test-framework/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+C:/play/cpp-playground/C++Basics/test-framework/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+C:/play/cpp-playground/C++Basics/test-framework/googletest-prefix/src/googletest-stamp/googletest-test.rule
+C:/play/cpp-playground/C++Basics/test-framework/googletest-prefix/src/googletest-stamp/googletest-update.rule

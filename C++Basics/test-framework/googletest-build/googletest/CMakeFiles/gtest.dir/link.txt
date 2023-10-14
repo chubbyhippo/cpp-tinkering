@@ -1,0 +1,2 @@
+C:\Users\nt\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc C:\play\cpp-playground\C++Basics\cmake-build-debug\lib\libgtest.a "CMakeFiles/gtest.dir/src/gtest-all.cc.obj"
+C:\Users\nt\AppData\Local\Programs\CLion\bin\mingw\bin\ranlib.exe C:\play\cpp-playground\C++Basics\cmake-build-debug\lib\libgtest.a

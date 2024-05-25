@@ -2,10 +2,7 @@ FROM ubuntu:22.04
 
 RUN apt-get update
 RUN DEBIAN_FRONTEND="noninteractive" apt-get upgrade -y
-RUN apt-get install -y tzdata
 RUN apt-get install -y build-essential
-RUN apt-get install -y gcc
-RUN apt-get install -y g++
 RUN apt-get install -y gdb
 RUN apt-get install -y clang
 RUN apt-get install -y make

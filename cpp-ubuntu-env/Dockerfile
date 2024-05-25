@@ -5,7 +5,6 @@ RUN DEBIAN_FRONTEND="noninteractive" apt-get upgrade -y
 RUN apt-get install -y build-essential
 RUN apt-get install -y gdb
 RUN apt-get install -y clang
-RUN apt-get install -y make
 RUN apt-get install -y ninja-build
 RUN apt-get install -y cmake
 RUN apt-get install -y autoconf
